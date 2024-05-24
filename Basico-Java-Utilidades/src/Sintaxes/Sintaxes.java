@@ -18,6 +18,7 @@ public class Sintaxes {
         
         System.out.println("Digite sua altura");
         double altura = scanner.nextDouble();
+        scanner.close();
 
         
         //imprimindo os dados obtidos pelo usuario
